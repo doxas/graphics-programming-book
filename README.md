@@ -37,6 +37,6 @@ Git の利用方法について理解がある場合、このリポジトリを 
 
 以下リンクからも参照できます。
 
-![正誤表（errors.md）](resource/errors.md)
+[正誤表（errors.md）](resource/errors.md)
 
 
